@@ -4,7 +4,7 @@
 
 # 🎵 Lavalink v4 - Optimized Edition
 
-![Version](https://img.shields.io/badge/version-v4_2026_FEB-blue.svg)
+![Version](https://img.shields.io/badge/version-v4_2026_MARCH-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-green.svg)
 
