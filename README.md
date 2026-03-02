@@ -28,7 +28,7 @@ Follow these simple steps to get your Lavalink server up and running on any VPS 
 
 ### 1. Download Lavalink
 Download the latest pre-configured zip file:
-- **Direct Download**: [Lavalinkv4_2026FEB.zip](https://github.com/GlaceYT/Lavalink/releases/download/v4_2026_FEB/Lavalinkv4_2026FEB.zip)
+- **Direct Download**: https://github.com/GlaceYT/Lavalink/releases/tag/v4_MARCH_2_2026
 
 ### 2. Refresh OAuth Token
 To ensure YouTube playback works without issues, you should refresh your OAuth token regularly:
