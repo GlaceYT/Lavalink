@@ -12,7 +12,7 @@
 
 ---
 
-### 🔗 Quick Links
+### 🔗 Other Links
 
 [![YouTube](https://img.shields.io/badge/YouTube-GlaceYT-red?style=for-the-badge&logo=youtube)](https://youtube.com/@GlaceYT)
 [![Website](https://img.shields.io/badge/Website-GlaceYT.com-blue?style=for-the-badge&logo=google-chrome)](https://glaceyt.com)
